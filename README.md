@@ -9,26 +9,35 @@ A tenative bike-sharing program has been proprosed to investors and stakeholders
 Below are the results and visualizations created from the statistical analysis of the New York City Citibike sharing program that provides support to the business proposal. 
 - Of the specific user types, the largest group are the subscribers with roughly over 1.9 million individuals in the month of August. 
 - When breaking down the users by gender, the male customers greatly outweigh female or unidentified users.
-![user image](link) ![gender pie](link)
+####
+![usertypes](https://github.com/victoriaguille/bikesharing/blob/main/images/usertypes.png) ![genderuser](https://github.com/victoriaguille/bikesharing/blob/main/images/genderuser.png)
 ####
 - Moving onto the actual usage of the bikes, it was found that the first hour of a bike trip for most users had the highest activity.
 - If the data was broken down by gender, it was found that those who did not identify themselves were usually one time customers who all used the bike for thirty minutes before quickly declining.
-![first trip](link) ![gender trip](link)
+####
+![firsthourtrip](https://github.com/victoriaguille/bikesharing/blob/main/images/firsthourtrip.png) 
+####
+![genderfirsthourtrip](https://github.com/victoriaguille/bikesharing/blob/main/images/genderfirsthourtrip.PNG)
 ####
 - With the knowledge of how long an average bike trip for most users takes, the data was broken down by user type, gender, and weekday to understand what day of the week these trips were occurring. The most activate population of users with these speicifications were subscribing male users. 
-![user weekday](link)
+####
+![userweekday](https://github.com/victoriaguille/bikesharing/blob/main/images/userweekday.PNG)
 ####
 - Further breaking down the weekday data by hours, the most popular hours of use are Monday through Friday, 7:00 a.m. to 9:00 a.m. and Monday through Friday, 5:00 p.m. to 7:00 p.m.
 - Of the weekday data by hours, the most popular day and time in total was Thursday from 5:00 p.mm to 7:00 p.m. with the peak amount of riders out during that time frame being 44,905 users.
-![generic heatmap](link)
+####
+![genericheatmap](https://github.com/victoriaguille/bikesharing/blob/main/images/genericheatmap.PNG)
 ####
 - Much like the rest of the statistical analysis, men were the largest group of users for the bike share program during the typical rush hours outlined above. 
-![gender heatmap](link)
+####
+![genderheatmap](https://github.com/victoriaguille/bikesharing/blob/main/images/genderheatmap.PNG)
 
 ## Summary
 ### Suggestions for Business Planning
 ####
-success in nyc is seen with male subscribers. des moines can follow this path of pushing for male subscribers in order to achieve similar success. would be a good idea to station these bikes around populated work and home destinations to match the commute data being seen in nyc. also some proof that younger individuals are going longer distances on bikes. all important factors that could benefit des moines planning.
+It can be quite difficult to move a successful business or program to a new area when perhaps the two locations are not identical. New York City and Des Moines, being two different cities in different portions of the country, are rather different. However, establishing a bike share program in Des Moines based off of New York City Citibike data can be successful when looking at the right factors. This potential program could see equal success in Des Moines by paying attention to the users and bike data that are currently displayed in this report. In New York City, the male subscribers of the Citibike share program greatly outweigh any other type of customer. Des Moines can follow this path of pushing for male subscribers in order to achieve similar success. Keeping the male audience in mind, this new bike share venture would have the potential for rapid growth if the bikes are placed in stations or locations that are heavily populated by work and home destinations to match the commute data being seen in New York City. Another group the Des Moines program could market to would be the younger cyclists in the city as New York City saw increases in duration of bike rides as the age of the user declined.All of these stand out statistics would benefit the Des Moines team's business planning.
+
 ### Suggestions for Future Analysis
 ####
-have data on male vs female, but not age. know that men are the primary users, so breaking down weekday trips by age rather than gender could tell you who to market for (explain which graph type to use). continuing on the focus of age groups, could create a pie chart for birth years rather than by gender. both of these factors could provide the bike share company insight into their potential market for further success.
+With the current statistical analysis requested by the stakeholders of this venture, there is only clear patterns in the data based on gender, but not age. It is obvious throughout the multitude of visualizations that men are the primary users, however, Des Moines might not have a large male cyclist community. This would mean the team would need to look at other factors such as the age groups of cyclists. Breaking down the weekday trips seen above by age rather than gender could give the analysists and planners a clearer picture of who would be the target audience for future marketing. This could easily be done in the user type by weekday heatmap by replacing the gender column with the birth year field. Continuing on the focus of age groups, a new pie chart for birth years rather than by gender could be created to give a clear picture of the ages of the user base.Both of these future analysis suggestions could provide the Des Moines bike share team with insight into their potential market for further success.
+
