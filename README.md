@@ -6,14 +6,24 @@ A tenative bike-sharing program has been proprosed to investors and stakeholders
 
 ## Results
 ####
-- largest user type are subscribers
-- predominately male customers
-- the first hour has the most activity
-- those who did not identify themselves were usually one time customers who all used the bike for thirty minutes before quickly declining
-- the most active population of users are subscribing men
-- most popular hours of use are Monday-Friday 7am-9am and Mon-Fri 5pm-7pm
-- most popular day and time in total is thur 5pm-7pm
-- men are the largest group of users for the bike share program during rush hours
+Below are the results and visualizations created from the statistical analysis of the New York City Citibike sharing program that provides support to the business proposal. 
+- Of the specific user types, the largest group are the subscribers with roughly over 1.9 million individuals in the month of August. 
+- When breaking down the users by gender, the male customers greatly outweigh female or unidentified users.
+![user image](link) ![gender pie](link)
+####
+- Moving onto the actual usage of the bikes, it was found that the first hour of a bike trip for most users had the highest activity.
+- If the data was broken down by gender, it was found that those who did not identify themselves were usually one time customers who all used the bike for thirty minutes before quickly declining.
+![first trip](link) ![gender trip](link)
+####
+- With the knowledge of how long an average bike trip for most users takes, the data was broken down by user type, gender, and weekday to understand what day of the week these trips were occurring. The most activate population of users with these speicifications were subscribing male users. 
+![user weekday](link)
+####
+- Further breaking down the weekday data by hours, the most popular hours of use are Monday through Friday, 7:00 a.m. to 9:00 a.m. and Monday through Friday, 5:00 p.m. to 7:00 p.m.
+- Of the weekday data by hours, the most popular day and time in total was Thursday from 5:00 p.mm to 7:00 p.m. with the peak amount of riders out during that time frame being 44,905 users.
+![generic heatmap](link)
+####
+- Much like the rest of the statistical analysis, men were the largest group of users for the bike share program during the typical rush hours outlined above. 
+![gender heatmap](link)
 
 ## Summary
 ### Suggestions for Business Planning
